@@ -20,6 +20,7 @@ const Card = ({characters}) => {
                         <p className="episodes">Episodes:</p>
                         <div className="episode">{char.episode}</div>
                         <textarea rows="10" cols="50" name="comment" defaultValue="Enter your comment"></textarea>
+                        <div className="send"><button className="sendtx">Send</button></div>
                     </div>
                     )
         })}

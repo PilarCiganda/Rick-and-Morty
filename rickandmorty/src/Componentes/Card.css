@@ -32,3 +32,13 @@ textarea {
     text-overflow: ellipsis;
     overflow: hidden;
 }
+
+.send {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sendtx {
+    padding: 1px 10px;
+}
