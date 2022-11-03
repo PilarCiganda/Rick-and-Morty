@@ -1,0 +1,34 @@
+div {
+    margin: 20px;
+    /* background-color: rgb(217, 212, 212); */
+    border-radius: 10px;
+}
+
+h4 {
+    color:black;
+}
+
+p {
+    color: black;
+}
+
+textarea {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.episodes {
+    margin:10px;
+}
+
+.episode {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}

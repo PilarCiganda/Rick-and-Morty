@@ -1,0 +1,11 @@
+.logo {
+    background-image: url("../../public/img/logo1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    background-color: transparent;
+    margin-top: 150px;
+}
+
+
